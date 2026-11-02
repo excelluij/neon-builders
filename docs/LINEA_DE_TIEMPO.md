@@ -7,11 +7,21 @@ aprendimos antes de pasar a la siguiente.
 
 ---
 
-## Etapa 0 · Arranque (15 de julio de 2025)
+## Antecedentes · El estadio de matrices LED (marzo – julio de 2024)
 
-- Inicio oficial del proyecto en la Especialización de Tecnología (cursos 1005 y 1002, docente Juan Camilo Rodríguez Montes).
-- Formamos el equipo **Neon Builders** (Daniel Santiago Sandoval Torres y Luis Enrique Barreto Duarte).
-- Escogimos el lema: *«Con luz y saber, jugamos para crecer»*.
+- Alrededor del **20 de marzo de 2024**, durante el **servicio social**, tuvimos la primera idea: un **estadio de fútbol con matrices LED**
+  muy grandes y totalmente programadas.
+- Trabajamos en ella unos **cuatro meses**. La descartamos porque **costaba demasiado dinero**.
+- Después pensamos en un proyecto hecho **únicamente con bases de datos SQL**, construidas al 100 % por nosotros. También lo descartamos,
+  porque era **demasiado pesado**. Por eso nos quedamos con una aplicación educativa más sencilla y viable.
+
+## Etapa 0 · Arranque (12 de febrero de 2025)
+
+- Inicio oficial del proyecto en la Especialización de Tecnología (cursos 1005 y 1002, docente Juan Camilo Rodríguez Montes), con
+  Daniel Santiago Sandoval Torres y Luis Enrique Barreto Duarte.
+- La aplicación empezó como **Educational Arcade Project**, su nombre más conocido. Después pasó a llamarse **Arcade Game**, luego
+  **Arcade National** y, por último, **Neon Builders**. La app quedó como **Neon OS**.
+- Lema: *«Con luz y saber, jugamos para crecer»*.
 
 ## Etapa 1 · Empatizar (julio – octubre de 2025)
 

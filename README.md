@@ -52,7 +52,8 @@ Funciona en los computadores del colegio, **sin internet y sin costo**.
 | **Cursos** | 1005 – 1002 |
 | **Docente** | Juan Camilo Rodríguez Montes |
 | **Equipo** | Daniel Santiago Sandoval Torres · Luis Enrique Barreto Duarte |
-| **Proyecto** | Del 15 de julio de 2025 al 29 de septiembre de 2026 (las mejoras de la versión 2.0 llegaron en octubre de 2026) |
+| **Proyecto** | Del 12 de febrero de 2025 al 29 de septiembre de 2026 (las mejoras de la versión 2.0 llegaron en octubre de 2026). La primera idea, un estadio con matrices LED, es de marzo de 2024 |
+| **Nombres anteriores** | Educational Arcade Project → Arcade Game → Arcade National → **Neon Builders** |
 | **Formato oficial lleno** | [`docs/Formato_Proyecto_Design_Thinking_Neon_Builders.docx`](docs/Formato_Proyecto_Design_Thinking_Neon_Builders.docx) · [PDF](docs/Formato_Proyecto_Design_Thinking_Neon_Builders.pdf) |
 
 ---
@@ -88,9 +89,13 @@ Más detalle en [`docs/ENCUESTA.md`](docs/ENCUESTA.md).
 
 ```mermaid
 timeline
-    title Neon Builders: de la observación a la versión 2.0
+    title Neon Builders: del estadio LED a la versión 2.0
+    section 2024
+        Marzo (20 mar) : Primera idea, un estadio con matrices LED : Nace en el servicio social
+        Mar – jul : Cuatro meses trabajándola : Se descarta por su alto costo
+        Después : Idea de un proyecto 100 % SQL : Se descarta por pesado
     section 2025
-        Julio : Arranca el proyecto (15 jul) : Nace el equipo Neon Builders y su lema
+        Febrero (12 feb) : Arranca el proyecto : Educational Arcade Project
         Jul – sep : Observación en salones y patios : 10 situaciones registradas
         Octubre : Encuesta de 75 respuestas (2 al 22 oct)
         Noviembre : Árbol de causas y efectos : Pregunta «¿Cómo podríamos…?»
@@ -103,10 +108,40 @@ timeline
         Octubre (sem. 1 y 2) : Versión 2.0 : Retroalimentación, top 10, Arena, correo, NeonOS.exe
 ```
 
+### 2024 · Antes de Neon OS: un estadio de matrices LED
+
+Todo empezó en el **servicio social**. Más o menos el **20 de marzo de 2024** se nos ocurrió construir un **estadio de fútbol con
+matrices LED** enormes y totalmente programadas. Le dedicamos unos **cuatro meses**, hasta mitad de año, y lo dejamos porque **costaba
+demasiado dinero**.
+
+Después pensamos en un proyecto hecho **únicamente con bases de datos SQL**, construidas al 100 % por nosotros. También lo descartamos,
+porque era **demasiado pesado** para el tiempo y el equipo que teníamos. De ahí sacamos la lección de buscar algo más sencillo y viable, y
+nos quedamos con la idea de una aplicación educativa con juegos.
+
+### 12 de febrero de 2025 · Arranca el proyecto
+
+El **12 de febrero de 2025** empezó oficialmente el proyecto, todavía con el nombre **Educational Arcade Project**. La aplicación cambió
+de nombre varias veces hasta llegar al definitivo:
+
+| # | Nombre | |
+|---|---|---|
+| 1 | **Educational Arcade Project** | El primero y el más conocido |
+| 2 | **Arcade Game** | |
+| 3 | **Arcade National** | |
+| 4 | **Neon Builders** ⚡ | El nombre final del equipo y del proyecto; la app se llama **Neon OS** |
+
+En la etapa de **Educational Arcade** armamos la identidad visual: un trofeo pixelado con calavera, con logotipo principal y secundario,
+isotipo, isologo, versiones monocromáticas y favicon. Ese mismo trofeo sigue siendo hoy el logo de Neon Builders y el ícono de la app.
+
+<p align="center">
+  <img src="docs/marca/manual_logos_educational_arcade.jpeg" width="55%" alt="Manual de logos de Educational Arcade">
+  <img src="docs/logo.png" width="30%" alt="Logo actual de Neon Builders">
+</p>
+
 ### Julio – noviembre de 2025 · Entender antes de programar
 
-El proyecto arrancó el **15 de julio de 2025**. Primero armamos el equipo y escogimos el nombre, **Neon Builders**, y el lema, *«Con luz y
-saber, jugamos para crecer»*. De julio a septiembre observamos a estudiantes de quinto a décimo en salones, salas de tecnología y patios, sin
+Desde julio de 2025 trabajamos la idea con la metodología Design Thinking, con el lema *«Con luz y saber, jugamos para crecer»*. De julio a
+septiembre observamos a estudiantes de quinto a décimo en salones, salas de tecnología y patios, sin
 intervenir. Vimos alumnos durmiendo en el espacio de Prueba Saber, pegados al celular en Química y armando partidas de Brawl Stars en plena
 clase de Inglés. Del 2 al 22 de octubre pasamos la encuesta *«Aprendizaje y motivación escolar»* (75 respuestas). En noviembre armamos el
 mapa de causas y efectos y concluimos que las tres problemáticas tenían la misma raíz: **la forma de enseñar desmotiva**.
@@ -301,6 +336,7 @@ neon-builders/
 │   ├── LINEA_DE_TIEMPO.md        ← cronología detallada
 │   ├── ENCUESTA.md               ← resultados de la encuesta
 │   ├── informe_encuesta_generado_por_la_app.pdf
+│   ├── marca/                    ← manual de logos (Educational Arcade)
 │   ├── capturas/                 ← pantallas reales
 │   └── graficas/                 ← gráficas de la encuesta
 └── neon-os/                      ← código de la aplicación
