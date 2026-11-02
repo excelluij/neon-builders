@@ -5,11 +5,17 @@ aprendimos antes de pasar a la siguiente.
 
 [← Volver al README](../README.md)
 
+| Año | Grado | Luis Enrique Barreto Duarte | Daniel Santiago Sandoval Torres |
+|---|---|---|---|
+| 2024 | Noveno | 907 | 905 |
+| 2025 | Décimo | 1002 | 1005 |
+| 2026 | Once | 1102 | 1105 |
+
 ---
 
 ## Antecedentes · El estadio de matrices LED (marzo – julio de 2024)
 
-- Alrededor del **20 de marzo de 2024**, durante el **servicio social**, tuvimos la primera idea: un **estadio de fútbol con matrices LED**
+- Alrededor del **20 de marzo de 2024**, durante el **servicio social** de noveno (Luis en 907 y Daniel en 905), tuvimos la primera idea: un **estadio de fútbol con matrices LED**
   muy grandes y totalmente programadas.
 - Trabajamos en ella unos **cuatro meses**. La descartamos porque **costaba demasiado dinero**.
 - Después pensamos en un proyecto hecho **únicamente con bases de datos SQL**, construidas al 100 % por nosotros. También lo descartamos,
@@ -17,7 +23,7 @@ aprendimos antes de pasar a la siguiente.
 
 ## Etapa 0 · Arranque (12 de febrero de 2025)
 
-- Inicio oficial del proyecto en la Especialización de Tecnología (cursos 1005 y 1002, docente Juan Camilo Rodríguez Montes), con
+- Inicio oficial del proyecto en la Especialización de Tecnología (en décimo: Luis en 1002 y Daniel en 1005; docente Juan Camilo Rodríguez Montes), con
   Daniel Santiago Sandoval Torres y Luis Enrique Barreto Duarte.
 - La aplicación empezó como **Educational Arcade Project**, su nombre más conocido. Después pasó a llamarse **Arcade Game**, luego
   **Arcade National** y, por último, **Neon Builders**. La app quedó como **Neon OS**.
@@ -75,7 +81,7 @@ Los resultados están en [ENCUESTA.md](ENCUESTA.md).
 Del prototipo salieron el Mercado, la Tienda, los avatares, las vidas, la racha y la primera «Arena AI» de quizzes.
 La regla de diseño que nos guió fue separar **la interfaz** de **la base de datos**.
 
-**Ronda de pruebas 1 (abril – junio de 2026).** Probaron la app compañeros de 1002 y 1005 y docentes de la especialización.
+**Ronda de pruebas 1 (abril – junio de 2026).** Ya en once, probaron la app compañeros de 1102 y 1105 y docentes de la especialización.
 Nos dijeron que «se ve como un juego de verdad», pero también que tenía pocas actividades, que el progreso se perdía al cerrar y que el
 profesor no podía crear sus propios retos.
 

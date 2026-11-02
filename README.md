@@ -49,7 +49,7 @@ Funciona en los computadores del colegio, **sin internet y sin costo**.
 | | |
 |---|---|
 | **Institución** | Colegio Bilingüe Nuestra Señora del Rosario, Bogotá |
-| **Cursos** | 1005 – 1002 |
+| **Cursos** | El proyecto atravesó tres años de colegio:<br/>**2024 (9.°):** Luis en 907 · Daniel en 905<br/>**2025 (10.°):** Luis en 1002 · Daniel en 1005<br/>**2026 (11.°):** Luis en 1102 · Daniel en 1105 |
 | **Docente** | Juan Camilo Rodríguez Montes |
 | **Equipo** | Daniel Santiago Sandoval Torres · Luis Enrique Barreto Duarte |
 | **Proyecto** | Del 12 de febrero de 2025 al 29 de septiembre de 2026 (las mejoras de la versión 2.0 llegaron en octubre de 2026). La primera idea, un estadio con matrices LED, es de marzo de 2024 |
@@ -91,11 +91,11 @@ Más detalle en [`docs/ENCUESTA.md`](docs/ENCUESTA.md).
 timeline
     title Neon Builders: del estadio LED a la versión 2.0
     section 2024
-        Marzo (20 mar) : Primera idea, un estadio con matrices LED : Nace en el servicio social
+        Marzo (20 mar) : Primera idea, un estadio con matrices LED : Servicio social, en 907 y 905
         Mar – jul : Cuatro meses trabajándola : Se descarta por su alto costo
         Después : Idea de un proyecto 100 % SQL : Se descarta por pesado
     section 2025
-        Febrero (12 feb) : Arranca el proyecto : Educational Arcade Project
+        Febrero (12 feb) : Arranca el proyecto en 1002 y 1005 : Educational Arcade Project
         Jul – sep : Observación en salones y patios : 10 situaciones registradas
         Octubre : Encuesta de 75 respuestas (2 al 22 oct)
         Noviembre : Árbol de causas y efectos : Pregunta «¿Cómo podríamos…?»
@@ -110,7 +110,7 @@ timeline
 
 ### 2024 · Antes de Neon OS: un estadio de matrices LED
 
-Todo empezó en el **servicio social**. Más o menos el **20 de marzo de 2024** se nos ocurrió construir un **estadio de fútbol con
+Todo empezó en el **servicio social**, cuando estábamos en noveno (Luis en **907** y Daniel en **905**). Más o menos el **20 de marzo de 2024** se nos ocurrió construir un **estadio de fútbol con
 matrices LED** enormes y totalmente programadas. Le dedicamos unos **cuatro meses**, hasta mitad de año, y lo dejamos porque **costaba
 demasiado dinero**.
 
@@ -120,7 +120,7 @@ nos quedamos con la idea de una aplicación educativa con juegos.
 
 ### 12 de febrero de 2025 · Arranca el proyecto
 
-El **12 de febrero de 2025** empezó oficialmente el proyecto, todavía con el nombre **Educational Arcade Project**. La aplicación cambió
+El **12 de febrero de 2025**, ya en décimo (Luis en **1002** y Daniel en **1005**), empezó oficialmente el proyecto, todavía con el nombre **Educational Arcade Project**. La aplicación cambió
 de nombre varias veces hasta llegar al definitivo:
 
 | # | Nombre | |
@@ -166,7 +166,7 @@ como «la caja transparente» y «la bóveda». El prototipo tenía:
   [informe en PDF con gráficas](docs/informe_encuesta_generado_por_la_app.pdf).
 - Un prototipo móvil con Flet (`app_movil.py`) para comparar con la versión de escritorio.
 
-Entre abril y junio lo probamos con compañeros de 1002 y 1005 y con docentes. Nos dijeron que se veía increíble pero que tenía
+Entre abril y junio, ya en once (1102 y 1105), lo probamos con compañeros de esos cursos y con docentes. Nos dijeron que se veía increíble pero que tenía
 pocas actividades, que el progreso se perdía al cerrar y que los profesores no podían poner sus propios retos.
 
 ### 1.ª y 2.ª semana de julio de 2026 · Versión 1.0
@@ -370,8 +370,8 @@ neon-builders/
 
 <table>
   <tr>
-    <td align="center"><b>Daniel Santiago Sandoval Torres</b><br/>Investigación, encuesta, contenido académico y pruebas con usuarios</td>
-    <td align="center"><b>Luis Enrique Barreto Duarte</b><br/>Programación, base de datos y publicación</td>
+    <td align="center"><b>Daniel Santiago Sandoval Torres</b><br/>905 → 1005 → 1105<br/>Investigación, encuesta, contenido académico y pruebas con usuarios</td>
+    <td align="center"><b>Luis Enrique Barreto Duarte</b><br/>907 → 1002 → 1102<br/>Programación, base de datos y publicación</td>
   </tr>
 </table>
 
