@@ -1,0 +1,20 @@
+# Secretos y configuración local: NUNCA se suben a Git
+.env
+.env.*
+!.env.example
+
+# Bases de datos locales (usuarios, claves con hash y progreso) y sus archivos auxiliares
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite3
+
+# Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+.venv/
+venv/

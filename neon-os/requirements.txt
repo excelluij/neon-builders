@@ -1,0 +1,9 @@
+# Dependencias de Neon OS. Versiones con las que se probó (Python 3.10).
+# Instalación recomendada, en un entorno virtual dentro de esta carpeta:
+#   python -m venv .venv
+#   .venv\Scripts\python -m pip install -r requirements.txt
+# Después se arranca con:  .venv\Scripts\python APP_final.py
+customtkinter==6.0.0
+pillow==12.3.0
+requests==2.34.2
+# Solo el prototipo móvil app_movil.py necesita además la biblioteca flet (no está aquí: no forma parte de la app de escritorio).
